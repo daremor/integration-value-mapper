@@ -9,8 +9,8 @@
 		<version>3.3.0</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ru.ldy.spine</groupId>
-	<artifactId>spine-value-mapper-demo</artifactId>
+	<groupId>ru.daremor.integration</groupId>
+	<artifactId>integration-value-mapper</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>spine-value-mapper-demo</name>
 	<description>Value Mapping Service</description>
